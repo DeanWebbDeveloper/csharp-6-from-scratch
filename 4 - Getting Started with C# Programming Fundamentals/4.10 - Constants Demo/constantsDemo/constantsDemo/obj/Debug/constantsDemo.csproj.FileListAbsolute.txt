@@ -1,0 +1,7 @@
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.10 - Constants Demo\constantsDemo\constantsDemo\bin\Debug\constantsDemo.exe.config
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.10 - Constants Demo\constantsDemo\constantsDemo\bin\Debug\constantsDemo.exe
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.10 - Constants Demo\constantsDemo\constantsDemo\bin\Debug\constantsDemo.pdb
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.10 - Constants Demo\constantsDemo\constantsDemo\obj\Debug\constantsDemo.csprojAssemblyReference.cache
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.10 - Constants Demo\constantsDemo\constantsDemo\obj\Debug\constantsDemo.csproj.CoreCompileInputs.cache
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.10 - Constants Demo\constantsDemo\constantsDemo\obj\Debug\constantsDemo.exe
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.10 - Constants Demo\constantsDemo\constantsDemo\obj\Debug\constantsDemo.pdb

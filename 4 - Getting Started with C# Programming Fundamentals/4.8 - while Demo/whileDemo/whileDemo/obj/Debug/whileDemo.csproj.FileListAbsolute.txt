@@ -1,0 +1,7 @@
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.8 - while Demo\whileDemo\whileDemo\bin\Debug\whileDemo.exe.config
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.8 - while Demo\whileDemo\whileDemo\bin\Debug\whileDemo.exe
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.8 - while Demo\whileDemo\whileDemo\bin\Debug\whileDemo.pdb
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.8 - while Demo\whileDemo\whileDemo\obj\Debug\whileDemo.csprojAssemblyReference.cache
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.8 - while Demo\whileDemo\whileDemo\obj\Debug\whileDemo.csproj.CoreCompileInputs.cache
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.8 - while Demo\whileDemo\whileDemo\obj\Debug\whileDemo.exe
+C:\csharp-6-from-scratch\4 - Getting Started with C# Programming Fundamentals\4.8 - while Demo\whileDemo\whileDemo\obj\Debug\whileDemo.pdb

@@ -1,0 +1,7 @@
+C:\csharp-6-from-scratch\3.2 - Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\csharp-6-from-scratch\3.2 - Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\csharp-6-from-scratch\3.2 - Hello World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\csharp-6-from-scratch\3.2 - Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\csharp-6-from-scratch\3.2 - Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\csharp-6-from-scratch\3.2 - Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\csharp-6-from-scratch\3.2 - Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
